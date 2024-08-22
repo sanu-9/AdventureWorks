@@ -23,6 +23,23 @@ I created 4 Dashboards and 1 decomposition tree which are pretty much required d
   ![Screenshot (102)](https://github.com/user-attachments/assets/83e42c2b-2b42-40ca-af0e-083bd6b69ad8)
 
 
+  ## Map Dashboard - 
+    Total orders per Country 
+
+
+  ## Product Deatail Dashboard - 
+     This dashboard shows more detail for perticular product.
+     
+     Also, there is adjusted price displayed using numeric parameters to compare weekly profit and adjusted profit.
+
+     Lastly, I added different product metrics using field parameters to showcase the weekly trend of selected metric.
+
+
+    
+
+  
+
+
 
 
 
