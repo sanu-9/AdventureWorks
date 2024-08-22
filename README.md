@@ -16,7 +16,7 @@ I created 4 Dashboards and 1 decomposition tree which are pretty much required d
   
   I was able to include some drill through functionality after introducing the table with the top 10 product and the order, revenue, return rate linked to them. This indicate that you may examine more information about a single product by clicking on it to access a different dashboard(the product detail dashboard).
   
-  
+  Introduction of the filter at  top right corner allows user to filter through different years and continent. Here is the result of dashboard showing numbers for the year 2022 and Europe continent.
   
   
   
