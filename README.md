@@ -23,16 +23,30 @@ I created 4 Dashboards and 1 decomposition tree which are pretty much required d
   ![Screenshot (102)](https://github.com/user-attachments/assets/83e42c2b-2b42-40ca-af0e-083bd6b69ad8)
 
 
-  ## Map Dashboard - 
-    Total orders per Country 
+  ## 2.Map Dashboard - 
+  Total orders per Country 
 
 
-  ## Product Deatail Dashboard - 
-     This dashboard shows more detail for perticular product.
+  ## 3.Product Detail Dashboard - 
+  This dashboard shows more detail for perticular product.
      
-     Also, there is adjusted price displayed using numeric parameters to compare weekly profit and adjusted profit.
+  Also, there is adjusted price displayed using numeric parameters to compare weekly profit and adjusted profit.
 
-     Lastly, I added different product metrics using field parameters to showcase the weekly trend of selected metric.
+  Lastly, I added different product metrics using field parameters to showcase the weekly trend of selected metric.
+
+  ## Customer Detail Dashboard -
+  Build a customer-level view to drill into performance at the individual customer level and breakdown different customer profiles  and segments.
+  
+  ## 5.Decomposition Tree: 
+  I added decomposition tree using AI features available in Power Bi to show data (total orders) across different categories and subcategories.
+
+
+
+  
+  
+
+
+  #### In this project I explore features like bookmark, drillthrough filters, parameters, tooltips and more.
 
 
     
